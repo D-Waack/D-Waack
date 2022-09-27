@@ -1,6 +1,6 @@
 ## Hey, the name's Daniel 👋
  - :computer: Computer Science student. 
- - :video_game: Indie dev in the making! Working on a Godot top-down adventure game in my free time. 
+ - :video_game: Indie dev in the making! [Check out the game I made for a class!](https://algumnome--danielmw.repl.co/) (in Portuguese). Working on a Godot top-down adventure game in my free time. 
  - :musical_keyboard: Amateur composer. 
  - :muscle: Learning pixel art. 
  
