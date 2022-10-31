@@ -1,7 +1,7 @@
 ## Hey, the name's Daniel 👋
  - :computer: Computer Science student. 
- - :video_game: Indie dev in the making! [Check out the game I made for a class!](https://algumnome--danielmw.repl.co/) (in Portuguese). Working on a Godot top-down adventure game in my free time. 
- - :musical_keyboard: Amateur composer. 
+ - :video_game: Indie dev in the making! You can check some of my games out on my [Itch.io page](https://ergothesleepy.itch.io/) or [the game I made for a class!](https://algumnome--danielmw.repl.co/) (in Portuguese). Working on a Godot top-down adventure game in my free time. 
+ - :musical_keyboard: Amateur composer. [Check out some of my music on SoundCloud!](https://soundcloud.com/ergo-the-sleepy)
  - :muscle: Learning pixel art. 
  
 ![raining_dream_shards](https://user-images.githubusercontent.com/70720034/181996568-93bfe168-d45b-4dd0-a917-7769eabbfd5e.gif)
